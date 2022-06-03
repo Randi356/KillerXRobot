@@ -1,0 +1,3 @@
+files:
+  - source: /KillerXRobot/langs/en.yaml
+    translation: /KillerXRobot/langs/%two_letters_code%.json
