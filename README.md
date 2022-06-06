@@ -6,6 +6,7 @@
 ![Stars](https://img.shields.io/github/stars/Randi356/KillerXRobot?style=for-the-badge&logo=appveyor)
 ![Contributors](https://img.shields.io/github/contributors/Randi356/KillerXRobot?style=for-the-badge&logo=appveyor)
 ![Repository Size](https://img.shields.io/github/repo-size/Randi356/KillerXRobot?style=for-the-badge&logo=appveyor)</br>
+![ok](https://user-images.githubusercontent.com/63757267/172181499-e2d4ac10-5be4-4fd4-adaa-36497fb76249.jpeg)
 
 [![Join Support!](https://img.shields.io/badge/Support%20Chat-Jamet-red)](https://t.me/pantekyks)
 
