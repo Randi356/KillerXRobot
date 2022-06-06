@@ -1,6 +1,6 @@
 FROM rendyprojects/archlinux:latest
 
-WORKDIR /app
+WORKDIR /app/
 
 RUN apt-get -y update
 
