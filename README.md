@@ -18,9 +18,13 @@ Can be found on telegram as [TakeRobot](https://t.me/takehito_bot).
 
 The Support group can be reached out to at [Support Jamet](https://t.me/pantekyks), where you can ask for help setting up your bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available.
 
+# ORIGINAL REPO MARIE
+```
+Links : https://github.com/PaulSonOfLars/tgbot
+```
 # CREDITS
 ```
-* •[x] [PaulSonOf] Lars https://github.com/PaulSonOfLars
+* •[x] [PaulSonOfLars] https://github.com/PaulSonOfLars
 * •[X] [Saitama] https://github.com/AnimeKaizoku
 * •[X] [Rendy] https://github.com/Randi356
 ```
